@@ -2,3 +2,8 @@ ui
 ui/*
 hi/dashboard/projects/hgraph/node_modules/
 node_modules
+
+**/credentials.py
+**/.seq
+**/__pycache__/
+**/.vscode/

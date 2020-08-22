@@ -1,0 +1,21 @@
+{
+    "_id": "Contact-Tracing:58d628f0ce74574b3fddbc9e93009a25",
+    "_rev": "4-014e427c6f2acabaf930daec4548d2a9",
+    "version": "1.0",
+    "user": "Ram Gautam",
+    "email": "Ramgautam@example.com",
+    "contact-tracing": {
+      "b1": "b1-form-id",
+      "type": "close-contact",
+      "details": {
+        "name": "Dinesh Gaire",
+        "address": "example-4, example mun, example district",
+        "mobile": "+9779856743212",
+        "phone": "015432100",
+        "email": "gdinesh@example.com",
+        "first-date": "20200822T140000"
+      }
+    },
+    "timezone": "Asia/Kathmandu",
+    "country": "nepal"
+  }
